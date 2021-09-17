@@ -1,2 +1,0 @@
-# noteFiles
-Some reading noteFiles. 
